@@ -1,6 +1,6 @@
 # DAppNodePackage-livepeer
 
-* this is a highly experimental repository
+__this is an experimental repository__
 
 A POC of the Livepeer broadcaster node using DAppNode to install it.
 
@@ -10,4 +10,5 @@ https://github.com/blake41/ETHBerlin-simple-html-player
 Demo: https://youtu.be/eoFa5mjwciA
 
 https://github.com/dappnode
+
 https://dappnode.io/
