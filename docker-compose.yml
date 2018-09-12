@@ -1,0 +1,9 @@
+version: '3.4'
+services:
+    livepeer.dnp.dappnode.eth:
+        image: 'livepeer.dnp.dappnode.eth:0.0.2'
+        build: ./build
+        volumes:
+            - 'livepeer:/usr/src/app'
+volumes:
+    livepeer: {}

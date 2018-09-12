@@ -1,0 +1,21 @@
+{
+  "name": "livepeer.dnp.dappnode.eth",
+  "version": "0.0.2",
+  "description": "Livepeer demo for EthBerlin'18",
+  "avatar": "g0fVt0R2_400x400.jpg",
+  "type": "service",
+  "image": {
+    "path": "",
+    "hash": "",
+    "size": "",
+    "restart": "always",
+    "volumes": [
+      "livepeer:/usr/src/app"
+    ],
+    "keywords": [
+      "Livepeer"
+    ]
+  },
+  "author": "Eduardo Antuña",
+  "license": ""
+}
